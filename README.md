@@ -3,13 +3,12 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guillaume%20Demay&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Full%20Stack%20Engineer%20%7C%20SaaS%20Architect%20%7C%20AI%20Builder&descAlignY=52&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=CTO+%26+Co-Founder+at+Lobbii+%F0%9F%8E%99%EF%B8%8F;Building+Scalable+AI+Products+from+Zero+to+One+%F0%9F%9A%80;6%2B+Years+Shipping+High-Performance+Platforms+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+Scalable+AI+Products+from+Zero+to+One+%F0%9F%9A%80;6%2B+Years+Shipping+High-Performance+Platforms+%E2%9A%A1;Millions+of+Requests.+Zero+Downtime.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-demay/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillaumedemay@hotmail.fr)
-[![Lobbii](https://img.shields.io/badge/🎙️_Lobbii-4F46E5?style=for-the-badge)](https://www.lobbii.fr)
 [![Location](https://img.shields.io/badge/📍_Toulouse,_France-1F2937?style=for-the-badge)]()
 
 </div>
@@ -20,7 +19,7 @@
 
 ```typescript
 const guillaume = {
-    role: "Senior Full Stack Engineer & CTO",
+    role: "Senior Full Stack Engineer",
     location: "Toulouse, France 🇫🇷",
     currentFocus: "Building AI-powered SaaS products",
     expertise: ["Python", "TypeScript", "React", "Node.js", "AWS"],
@@ -31,7 +30,7 @@ const guillaume = {
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDemay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&langs_count=6" width="320"/>
 
-I'm a **Senior Engineer** and **CTO** with **6+ years** of experience building high-performance platforms. I specialize in taking products from **"Zero to One"** — bridging the gap between heavy backend logic (Python/AI) and modern, reactive interfaces (React/TypeScript).
+**Senior Full Stack Engineer** with **6+ years** shipping high-performance platforms. I take products from **Zero to One** — bridging heavy backend logic (Python/AI) with modern reactive interfaces (React/TypeScript).
 
 ### What drives me:
 - 🏗️ **Full Ownership** — I build complete products, from database to deployment
@@ -43,38 +42,32 @@ I'm a **Senior Engineer** and **CTO** with **6+ years** of experience building h
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Lobbii — _CTO & Co-Founder_
-**The future of hotel automation**
+### 📊 High-Scale AI Systems
+**Processing millions of requests daily**
 
-An AI voice receptionist available 24/7 that handles guest calls, bookings, and inquiries autonomously.
+- Built **3 AI products** from concept to production
+- Architected **Fastify microservices** for real-time sports data
+- Redesigned infra with **Docker & Kubernetes**
 
-- Built the **entire product from scratch**
-- Designed a **serverless AWS architecture** that scales to thousands of concurrent calls
-- Real-time voice processing with WebSockets
-
-**Stack:** `React` `TypeScript` `Node.js` `Python` `AWS Lambda` `WebSockets`
-
-[![Visit Lobbii](https://img.shields.io/badge/🌐_Visit_Lobbii-4F46E5?style=flat-square)](https://www.lobbii.fr)
+**Stack:** `Python` `FastAPI` `Docker` `Kubernetes` `AI/ML`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Stats Perform — _Senior Engineer_
-**High-Scale AI for Sports**
+### ☁️ Cloud & Backend
+**Serverless architectures that scale**
 
-Building systems that process **millions of sports data points daily** for real-time analytics.
+- Migrated enterprise systems **Azure → AWS**
+- Optimized APIs for **40% faster** response times
+- Built **serverless systems** handling thousands of concurrent requests
 
-- Architected high-speed **Fastify microservices**
-- Redesigned cloud infra with **Docker & Kubernetes**
-- Shipped **3 complete AI applications** from scratch
-
-**Stack:** `Python` `FastAPI` `Docker` `Kubernetes` `AI/ML`
+**Stack:** `AWS Lambda` `Node.js` `TypeScript` `React` `WebSockets`
 
 </td>
 </tr>
@@ -136,8 +129,6 @@ Building systems that process **millions of sports data points daily** for real-
 ## 📈 Journey
 
 ```
-2025 ──────── 🚀 CTO & Co-Founder @ Lobbii (Building the future of hotel AI)
-     │
 2024 ──────── 💼 Senior Python Engineer @ Stats Perform (High-scale sports AI)
      │
 2023 ──────── 🌍 Senior Python Engineer @ blackshark.ai (Cloud & Backend optimization)
